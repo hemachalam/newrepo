@@ -1,0 +1,19 @@
+Applications of Bash Scripts:
+Manipulating files
+Executing routine tasks like Backup operation
+Automation
+The advantages of using Bash Scripts are given below –
+
+Advantages of Bash Scripts:
+It is simple.
+It helps to avoid doing repetitive tasks
+Easy to use
+Frequently performed tasks can be automated
+A sequence of commands can be run as a single command.
+The disadvantages of the Bash Scripts are given below – 
+
+Disadvantages of Bash Scripts:
+Any mistake while writing can be costly.
+A new process launched for almost every shell command executed
+Slow execution speed 
+Compatibility problems between different platforms
