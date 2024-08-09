@@ -1,1 +1,4 @@
-q
+#!/bin/bash
+
+echo "Hello from local virtual machine fedora"
+echo "Hi from Github"
