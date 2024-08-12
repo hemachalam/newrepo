@@ -6,6 +6,6 @@ then
 	cat $filename
 
 else
-	cat > $filename
+        touch $filename
 	echo "File Created....."
 fi
